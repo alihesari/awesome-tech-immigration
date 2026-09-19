@@ -19,6 +19,7 @@ Every entry links to an official government or agency page.
 - [Japan](#japan)
 - [Netherlands](#netherlands)
 - [New Zealand](#new-zealand)
+- [Portugal](#portugal)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -157,6 +158,15 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Green List roles](https://www.immigration.govt.nz/work/requirements-for-work-visas/green-list-occupations-qualifications-and-skills/green-list-roles-jobs-we-need-people-for-in-new-zealand/) - Official list of in-demand roles, including ICT occupations, with their residence pathways.
 - [New Zealand citizenship](https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/) - Government information on becoming a citizen.
 - [NZQA international qualifications](https://www2.nzqa.govt.nz/international/) - Assessment and recognition of overseas qualifications.
+
+## Portugal
+
+- [Tech Visa](https://vistos.mne.gov.pt/en/tech-visa) - Faster visa and residence processing for highly qualified professionals hired by companies certified under the programme.
+- [Tech Visa certification (IAPMEI)](https://www.iapmei.pt/pt/paginas/tech-visa-en/) - Programme page from the agency that certifies companies and lists certified employers.
+- [National visa types](https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa) - Lists the residency visa for highly qualified activity, the temporary stay and residency visas for professional activity done remotely, and the job seeker visa for people with specialized technical skills.
+- [Startup Visa](https://vistos.mne.gov.pt/en/startup-visa) - For foreign entrepreneurs who want to develop a startup project in Portugal, run by IAPMEI.
+- [AIMA](https://aima.gov.pt/pt) - Agency that issues residence permits after entry on a residency visa (site in Portuguese).
+- [Portuguese nationality](https://justica.gov.pt/Servicos/Pedir-nacionalidade-portuguesa) - Ministry of Justice service for applying for Portuguese nationality (page in Portuguese).
 
 ## Contributing
 
