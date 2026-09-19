@@ -22,6 +22,7 @@ Every entry links to an official government or agency page.
 - [Portugal](#portugal)
 - [Singapore](#singapore)
 - [Spain](#spain)
+- [Sweden](#sweden)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -184,6 +185,15 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Digital nomad (international telework) visa](https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Digital-Nomad-Visa.aspx) - Residence visa for people working remotely for employers or clients outside Spain; this is one consulate's page, so check the consulate for your country.
 - [Long-term EU residence](https://www.inclusion.gob.es/en/web/migraciones/w/50.-autorizacion-de-residencia-de-larga-duracion-ue) - Long-term residence after five years of legal residence, with a shorter route for EU Blue Card holders (page in Spanish).
 - [Nationality by residence](https://www.mjusticia.gob.es/es/ciudadania/tramites/nacionalidad-residencia) - Ministry of Justice procedure for Spanish nationality by residence (page in Spanish).
+
+## Sweden
+
+- [Work permit for employees](https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/employees.html) - For a job offer from a Swedish employer; the salary must be at least 90 percent of the median salary published by Statistics Sweden.
+- [EU Blue Card](https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/eu-blue-cards.html) - Combined residence and work permit for highly qualified employment.
+- [Residence permit to look for work or start a business](https://www.migrationsverket.se/en/you-want-to-apply/work/look-for-work/look-for-work-or-start-a-business.html) - For people with a second-cycle (Master's-level) qualification; granted for up to nine months.
+- [Permanent residence permit](https://www.migrationsverket.se/en/you-want-to-apply/permanent-residence-permit.html) - Requirements for permanent residence.
+- [Recognition of foreign qualifications](https://www.uhr.se/en/start/recognition-of-foreign-qualifications/) - Swedish Council for Higher Education evaluation of foreign degrees.
+- [Work in Sweden](https://sweden.se/work-in-sweden) - Official guide to jobs and moving to Sweden for work.
 
 ## Contributing
 
