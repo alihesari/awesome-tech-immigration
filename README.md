@@ -8,6 +8,7 @@ Every entry links to an official government or agency page.
 
 - [Immigration rules change often. Always confirm on the official page before applying.](#immigration-rules-change-often-always-confirm-on-the-official-page-before-applying)
 - [Australia](#australia)
+- [Austria](#austria)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -46,6 +47,15 @@ Immigration rules change often. Always confirm on the official page before apply
 - [National Innovation visa (subclass 858)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/national-innovation-visa-858) - Permanent visa for people with an internationally recognised record of exceptional achievement; entry starts with an expression of interest.
 - [Skilled occupation list](https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list) - Official list of occupations eligible for each skilled visa.
 - [Australian citizenship for permanent residents](https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident) - Eligibility and application steps for permanent residents applying for citizenship.
+
+## Austria
+
+- [Red-White-Red Card for Very Highly Qualified Workers](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/very-highly-qualified-workers/) - Points-based route for highly qualified applicants; the same page covers a six-month Job Seeker Visa for those without a job offer yet.
+- [Skilled Workers in Shortage Occupations](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/skilled-workers-in-shortage-occupations/) - Red-White-Red Card for qualified workers in occupations on the shortage list, which is set each year by regulation.
+- [Other Key Workers](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/other-key-workers/) - Red-White-Red Card for key workers with a job offer who reach the minimum points score and pass a labour market test.
+- [EU Blue Card](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/eubluecard/) - For graduates with a qualifying job offer; ICT professionals can qualify with at least three years of relevant professional experience instead of a degree.
+- [Red-White-Red Card plus](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/redwhiteredcardplus/) - Fixed-term settlement with unlimited labour market access, available to Red-White-Red Card and EU Blue Card holders who meet the conditions.
+- [Austrian citizenship](https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/staatsbuergerschaft) - Official government overview of acquiring Austrian citizenship.
 
 ## Contributing
 
