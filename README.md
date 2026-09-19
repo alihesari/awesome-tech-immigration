@@ -26,6 +26,7 @@ Every entry links to an official government or agency page.
 - [Switzerland](#switzerland)
 - [United Arab Emirates](#united-arab-emirates)
 - [United Kingdom](#united-kingdom)
+- [United States](#united-states)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -224,6 +225,16 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Innovator Founder visa](https://www.gov.uk/innovator-founder-visa) - For founders who have been endorsed for a business idea.
 - [Indefinite leave to remain](https://www.gov.uk/indefinite-leave-to-remain) - Settlement usually after 5 years of living and working in the UK, or 3 years on some routes such as Global Talent.
 - [Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) - Official list of employers licensed to sponsor workers.
+
+## United States
+
+- [H-1B specialty occupations](https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations) - Employer-sponsored visa for jobs requiring a bachelor's degree or equivalent, with an annual cap and registration process; the page also covers the $100,000 payment set by a September 2025 proclamation and a June 2026 court order on it that DHS is appealing.
+- [O-1 visa](https://www.uscis.gov/working-in-the-united-states/temporary-workers/o-1-visa-individuals-with-extraordinary-ability-or-achievement) - For individuals with extraordinary ability who can show sustained national or international acclaim.
+- [TN USMCA professionals](https://www.uscis.gov/working-in-the-united-states/temporary-workers/tn-usmca-professionals) - For Canadian and Mexican citizens working in qualifying professional occupations.
+- [EB-1 first preference](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1) - Green card category for people with extraordinary ability and outstanding researchers.
+- [EB-2 second preference](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2) - Green card category for advanced degree holders or exceptional ability, including the National Interest Waiver.
+- [Green card](https://www.uscis.gov/green-card) - Overview of permanent residence eligibility and processes.
+- [Citizenship](https://www.uscis.gov/citizenship) - USCIS resources on naturalization.
 
 ## Contributing
 
