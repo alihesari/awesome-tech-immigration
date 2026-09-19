@@ -17,6 +17,7 @@ Every entry links to an official government or agency page.
 - [Germany](#germany)
 - [Ireland](#ireland)
 - [Japan](#japan)
+- [Netherlands](#netherlands)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -136,6 +137,16 @@ Immigration rules change often. Always confirm on the official page before apply
 - [J-Find (Future Creation Individual)](https://www.moj.go.jp/isa/applications/status/designatedactivities51.html) - Status for recent graduates of top-ranked universities to look for work or start a business in Japan (page in Japanese).
 - [Digital Nomad](https://www.moj.go.jp/isa/applications/status/designatedactivities53_00001.html) - Stay for remote workers from eligible countries; the page lists an annual income of at least 10 million yen and private medical insurance (as stated in 2026).
 - [Permanent residence](https://www.moj.go.jp/isa/applications/procedures/16-4.html) - Application procedure for permanent residence (page in Japanese).
+
+## Netherlands
+
+- [Highly skilled migrant](https://ind.nl/en/residence-permits/work/highly-skilled-migrant) - Residence permit for highly skilled employees; only an employer recognised by the IND can apply.
+- [European Blue Card](https://ind.nl/en/residence-permits/work/european-blue-card-residence-permit) - For highly educated employees with a qualifying job offer and salary.
+- [Orientation year](https://ind.nl/en/residence-permits/work/residence-permit-for-orientation-year) - Residence permit to look for work after graduation, a doctorate or research.
+- [Start-up](https://ind.nl/en/residence-permits/work/start-up) - Residence permit for people who want to start an innovative business in the Netherlands.
+- [Public register of recognised sponsors](https://ind.nl/en/public-register-recognised-sponsors) - Official list of employers that can sponsor highly skilled migrants.
+- [Permanent residency](https://ind.nl/en/replace-extend-renew-and-change/permanent-residency) - Requirements for permanent residence or long-term EU residence.
+- [IDW credential evaluation](https://www.idw.nl/en) - Official evaluation of foreign diplomas for use in the Netherlands.
 
 ## Contributing
 
