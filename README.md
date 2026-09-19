@@ -21,6 +21,7 @@ Every entry links to an official government or agency page.
 - [New Zealand](#new-zealand)
 - [Portugal](#portugal)
 - [Singapore](#singapore)
+- [Spain](#spain)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -176,6 +177,13 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-facilitation/tech-pass) - For established tech leaders; the page states new and renewal applications close on 28 January 2027, when a ONE Pass (AI and Tech) track replaces it.
 - [EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass) - For founders starting and operating a business in Singapore.
 - [Apply for permanent residence](https://www.ica.gov.sg/reside/PR/apply) - Immigration & Checkpoints Authority application for permanent residence.
+
+## Spain
+
+- [Highly qualified professionals and EU Blue Card](https://www.inclusion.gob.es/en/web/migraciones/w/66.-autorizacion-inicial-de-residencia-y-trabajo-de-profesionales-altamente-cualificados) - Residence and work authorisation for work that requires higher education or, in some cases, professional experience (page in Spanish).
+- [Digital nomad (international telework) visa](https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Digital-Nomad-Visa.aspx) - Residence visa for people working remotely for employers or clients outside Spain; this is one consulate's page, so check the consulate for your country.
+- [Long-term EU residence](https://www.inclusion.gob.es/en/web/migraciones/w/50.-autorizacion-de-residencia-de-larga-duracion-ue) - Long-term residence after five years of legal residence, with a shorter route for EU Blue Card holders (page in Spanish).
+- [Nationality by residence](https://www.mjusticia.gob.es/es/ciudadania/tramites/nacionalidad-residencia) - Ministry of Justice procedure for Spanish nationality by residence (page in Spanish).
 
 ## Contributing
 
