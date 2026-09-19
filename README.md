@@ -7,6 +7,7 @@ Every entry links to an official government or agency page.
 ## Contents
 
 - [Immigration rules change often. Always confirm on the official page before applying.](#immigration-rules-change-often-always-confirm-on-the-official-page-before-applying)
+- [Australia](#australia)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -35,6 +36,16 @@ Immigration rules change often. Always confirm on the official page before apply
 | United Arab Emirates | Employer-sponsored work visa; Green visa for skilled workers | Renewable 5 or 10-year Golden visa (long-term residence) | [UAE Government portal](https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa) |
 | United Kingdom | Skilled Worker visa; Global Talent visa | Indefinite leave to remain, usually after 5 years (3 on some routes) | [GOV.UK](https://www.gov.uk/skilled-worker-visa) |
 | United States | H-1B; O-1 | Green card through EB-1 or EB-2 | [USCIS](https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations) |
+
+## Australia
+
+- [Skills in Demand visa (subclass 482)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-482) - Temporary employer-sponsored visa for skilled workers, with Core Skills and Specialist Skills streams; it replaced the Temporary Skill Shortage visa on 7 December 2024.
+- [Skilled Independent visa (subclass 189)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189) - Permanent points-tested visa for invited skilled workers, with no employer or state sponsor required.
+- [Skilled Nominated visa (subclass 190)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190) - Permanent points-tested visa for skilled workers nominated by an Australian state or territory.
+- [Employer Nomination Scheme (subclass 186)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186) - Permanent visa for skilled workers nominated by an Australian employer.
+- [National Innovation visa (subclass 858)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/national-innovation-visa-858) - Permanent visa for people with an internationally recognised record of exceptional achievement; entry starts with an expression of interest.
+- [Skilled occupation list](https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list) - Official list of occupations eligible for each skilled visa.
+- [Australian citizenship for permanent residents](https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident) - Eligibility and application steps for permanent residents applying for citizenship.
 
 ## Contributing
 
