@@ -24,6 +24,7 @@ Every entry links to an official government or agency page.
 - [Spain](#spain)
 - [Sweden](#sweden)
 - [Switzerland](#switzerland)
+- [United Arab Emirates](#united-arab-emirates)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -204,6 +205,14 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Becoming a Swiss citizen](https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html) - Requirements for ordinary naturalisation.
 - [Recognition of professional qualifications](https://www.sbfi.admin.ch/en/recognition-of-professional-qualifications) - State Secretariat for Education, Research and Innovation recognition service.
 - [Working in Switzerland as a foreign national](https://www.ch.ch/en/foreign-nationals-in-switzerland/working-in-switzerland/) - Federal portal overview for foreign workers.
+
+## United Arab Emirates
+
+- [Work visa](https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/residence-visa-for-working-in-the-uae) - Employer-sponsored residence visa for working in the UAE.
+- [Green visa for skilled workers](https://www.gdrfad.gov.ae/en/services/c4d66f28-408c-11ed-4fe5-0050569629e8) - Self-sponsored residence for skilled workers classified at the first, second or third occupational level (Dubai GDRFA service page).
+- [Golden visa](https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa) - Renewable long-term residence of 5 or 10 years, including a category for specialists in priority scientific and engineering fields.
+- [Virtual work (remote work) visa](https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8) - For people employed by an entity outside the UAE and working remotely, subject to a minimum monthly income (Dubai GDRFA service page).
+- [Visit visa to explore job opportunities](https://www.gdrfad.gov.ae/en/services/2a679791-408a-11ed-4fe5-0050569629e8) - Job-search visit visa with no host or sponsor for skilled workers or graduates of top-ranked universities (Dubai GDRFA service page).
 
 ## Contributing
 
