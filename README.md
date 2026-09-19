@@ -27,6 +27,7 @@ Every entry links to an official government or agency page.
 - [United Arab Emirates](#united-arab-emirates)
 - [United Kingdom](#united-kingdom)
 - [United States](#united-states)
+- [General Resources](#general-resources)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -235,6 +236,16 @@ Immigration rules change often. Always confirm on the official page before apply
 - [EB-2 second preference](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2) - Green card category for advanced degree holders or exceptional ability, including the National Interest Waiver.
 - [Green card](https://www.uscis.gov/green-card) - Overview of permanent residence eligibility and processes.
 - [Citizenship](https://www.uscis.gov/citizenship) - USCIS resources on naturalization.
+
+## General Resources
+
+- [EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal_en) - European Commission portal with country-by-country rules for non-EU nationals moving to an EU country.
+- [EU Blue Card overview](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/work/eu-blue-card-attracting-highly-qualified-talent-eu_en) - European Commission summary of the EU-wide permit for highly qualified workers.
+- [EURES](https://eures.europa.eu) - European job mobility portal run by the European Commission and national employment services.
+- [ENIC-NARIC](https://www.enic-naric.net/) - Network of national centres for recognition of foreign academic qualifications in Europe and beyond.
+- [Europass](https://europass.europa.eu/en) - EU tools for CVs and describing qualifications in a standard format.
+- [OECD Indicators of Talent Attractiveness](https://www.oecd.org/en/data/tools/talent-attractiveness-2023.html) - OECD benchmark comparing how countries attract highly skilled workers, entrepreneurs, students and start-up founders.
+- [Measuring and assessing talent attractiveness in OECD countries](https://www.oecd.org/en/publications/measuring-and-assessing-talent-attractiveness-in-oecd-countries-second-edition_133b6085-en.html) - Second edition of the OECD report behind the indicators.
 
 ## Contributing
 
