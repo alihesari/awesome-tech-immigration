@@ -25,6 +25,7 @@ Every entry links to an official government or agency page.
 - [Sweden](#sweden)
 - [Switzerland](#switzerland)
 - [United Arab Emirates](#united-arab-emirates)
+- [United Kingdom](#united-kingdom)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -213,6 +214,16 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Golden visa](https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa) - Renewable long-term residence of 5 or 10 years, including a category for specialists in priority scientific and engineering fields.
 - [Virtual work (remote work) visa](https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8) - For people employed by an entity outside the UAE and working remotely, subject to a minimum monthly income (Dubai GDRFA service page).
 - [Visit visa to explore job opportunities](https://www.gdrfad.gov.ae/en/services/2a679791-408a-11ed-4fe5-0050569629e8) - Job-search visit visa with no host or sponsor for skilled workers or graduates of top-ranked universities (Dubai GDRFA service page).
+
+## United Kingdom
+
+- [Skilled Worker visa](https://www.gov.uk/skilled-worker-visa) - For a job with a Home Office-approved sponsor in an eligible occupation, with English and minimum salary requirements.
+- [Global Talent visa](https://www.gov.uk/global-talent) - For leaders or potential leaders in arts, sciences or digital technology who have been endorsed; no job offer required.
+- [High Potential Individual visa](https://www.gov.uk/high-potential-individual-visa) - For recent graduates of eligible top-ranked universities outside the UK; no job offer required.
+- [Scale-up Worker visa](https://www.gov.uk/scale-up-worker-visa) - For a job offer from a UK scale-up business.
+- [Innovator Founder visa](https://www.gov.uk/innovator-founder-visa) - For founders who have been endorsed for a business idea.
+- [Indefinite leave to remain](https://www.gov.uk/indefinite-leave-to-remain) - Settlement usually after 5 years of living and working in the UK, or 3 years on some routes such as Global Talent.
+- [Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) - Official list of employers licensed to sponsor workers.
 
 ## Contributing
 
