@@ -13,6 +13,7 @@ Every entry links to an official government or agency page.
 - [Denmark](#denmark)
 - [Estonia](#estonia)
 - [Finland](#finland)
+- [France](#france)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -97,6 +98,13 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Finnish citizenship](https://migri.fi/en/finnish-citizenship) - Requirements and application for citizenship.
 - [Work in Finland](https://www.workinfinland.com/en/) - Official portal for international professionals.
 - [Recognition of qualifications](https://www.oph.fi/en/services/recognition-qualifications) - Finnish National Agency for Education service for recognising foreign qualifications.
+
+## France
+
+- [Talent passport](https://france-visas.gouv.fr/en/talents-internationaux-et-attractivite-economique) - Multi-year residence permit family covering qualified employees, employees of innovative companies, EU Blue Card holders and company founders.
+- [French Tech Visa](https://lafrenchtech.gouv.fr/en/come-work-in-france/french-tech-visa/) - Simplified talent passport procedure for startup employees, founders selected by partner incubators, and investors.
+- [10-year resident card](https://www.service-public.gouv.fr/particuliers/vosdroits/F2208) - Conditions for the carte de resident, the long-term residence card (page in French).
+- [Naturalisation by decree](https://www.service-public.gouv.fr/particuliers/vosdroits/F2213) - Conditions and procedure for French citizenship through naturalisation (page in French).
 
 ## Contributing
 
