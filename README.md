@@ -18,6 +18,7 @@ Every entry links to an official government or agency page.
 - [Ireland](#ireland)
 - [Japan](#japan)
 - [Netherlands](#netherlands)
+- [New Zealand](#new-zealand)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -147,6 +148,15 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Public register of recognised sponsors](https://ind.nl/en/public-register-recognised-sponsors) - Official list of employers that can sponsor highly skilled migrants.
 - [Permanent residency](https://ind.nl/en/replace-extend-renew-and-change/permanent-residency) - Requirements for permanent residence or long-term EU residence.
 - [IDW credential evaluation](https://www.idw.nl/en) - Official evaluation of foreign diplomas for use in the Netherlands.
+
+## New Zealand
+
+- [Accredited Employer Work Visa](https://www.immigration.govt.nz/visas/accredited-employer-work-visa/) - Temporary work visa for a job offer from an accredited employer.
+- [Skilled Migrant Category Resident Visa](https://www.immigration.govt.nz/visas/skilled-migrant-category-resident-visa/) - Residence visa with three pathways; the points-based pathway needs 6 points from qualification, income or occupational registration.
+- [Straight to Residence Visa](https://www.immigration.govt.nz/visas/straight-to-residence-visa/) - Residence visa for a job with an accredited employer in a Green List Tier 1 role.
+- [Green List roles](https://www.immigration.govt.nz/work/requirements-for-work-visas/green-list-occupations-qualifications-and-skills/green-list-roles-jobs-we-need-people-for-in-new-zealand/) - Official list of in-demand roles, including ICT occupations, with their residence pathways.
+- [New Zealand citizenship](https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/) - Government information on becoming a citizen.
+- [NZQA international qualifications](https://www2.nzqa.govt.nz/international/) - Assessment and recognition of overseas qualifications.
 
 ## Contributing
 
