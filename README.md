@@ -20,6 +20,7 @@ Every entry links to an official government or agency page.
 - [Netherlands](#netherlands)
 - [New Zealand](#new-zealand)
 - [Portugal](#portugal)
+- [Singapore](#singapore)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -167,6 +168,14 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Startup Visa](https://vistos.mne.gov.pt/en/startup-visa) - For foreign entrepreneurs who want to develop a startup project in Portugal, run by IAPMEI.
 - [AIMA](https://aima.gov.pt/pt) - Agency that issues residence permits after entry on a residency visa (site in Portuguese).
 - [Portuguese nationality](https://justica.gov.pt/Servicos/Pedir-nacionalidade-portuguesa) - Ministry of Justice service for applying for Portuguese nationality (page in Portuguese).
+
+## Singapore
+
+- [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass) - For foreign professionals, managers and executives; applicants must meet a qualifying salary and pass the COMPASS framework, and employers must advertise the job first.
+- [Overseas Networks & Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass) - Personalised pass for top talent in all sectors, including business and research.
+- [Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-facilitation/tech-pass) - For established tech leaders; the page states new and renewal applications close on 28 January 2027, when a ONE Pass (AI and Tech) track replaces it.
+- [EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass) - For founders starting and operating a business in Singapore.
+- [Apply for permanent residence](https://www.ica.gov.sg/reside/PR/apply) - Immigration & Checkpoints Authority application for permanent residence.
 
 ## Contributing
 
