@@ -10,6 +10,7 @@ Every entry links to an official government or agency page.
 - [Australia](#australia)
 - [Austria](#austria)
 - [Canada](#canada)
+- [Denmark](#denmark)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -67,6 +68,15 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Educational Credential Assessment](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed.html) - Required for foreign education when applying under the Federal Skilled Worker Program or claiming points for it.
 - [Canadian citizenship](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen.html) - Eligibility and application for permanent residents who want to become citizens.
 - [Job Bank](https://www.jobbank.gc.ca) - Government of Canada job search portal.
+
+## Denmark
+
+- [Pay Limit Scheme](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Pay-limit-scheme) - Work and residence permit for a job offer at or above the pay limit, which the page states as DKK 552,000 per year (2026 level); no specific education requirement.
+- [Fast-Track Scheme](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Fast-track) - Lets certified employers hire highly qualified foreign employees and start work before processing is complete.
+- [Positive Lists](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/The-Positive-Lists) - Permits for job offers in occupations with a shortage of qualified labour, covering both higher education and skilled work lists.
+- [Start-up Denmark](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Start-up-Denmark) - Residence permit for founders who want to run an innovative business in Denmark.
+- [Permanent residence permit](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Permanent-residence-permit/Permanent-residence) - Requirements and application for permanent residence.
+- [Work in Denmark](https://www.workindenmark.dk) - Public employment service for international job seekers.
 
 ## Contributing
 
