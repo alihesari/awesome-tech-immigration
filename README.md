@@ -15,6 +15,7 @@ Every entry links to an official government or agency page.
 - [Finland](#finland)
 - [France](#france)
 - [Germany](#germany)
+- [Ireland](#ireland)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -116,6 +117,15 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Settlement permit](https://www.make-it-in-germany.com/en/visa-residence/living-permanently/settlement-permit) - Permanent residence title; holding an EU Blue Card makes it easier to obtain.
 - [Naturalisation](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung-node.html) - Federal Office for Migration and Refugees overview of becoming a German citizen.
 - [Recognition in Germany](https://www.anerkennung-in-deutschland.de/en/) and [anabin](https://anabin.kmk.org) - Official portals for recognising foreign vocational and academic qualifications.
+
+## Ireland
+
+- [Critical Skills Employment Permit](https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/) - For occupations on the Critical Skills Occupations List; no Labour Market Needs Test is required.
+- [General Employment Permit](https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/general-employment-permit/) - For occupations not on the ineligible list, subject to the permit conditions.
+- [Critical Skills Occupations List](https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/economic-migration-policy/occupations-lists-and-reviews/csol.html) - Official list of occupations eligible for the Critical Skills permit.
+- [Stamp 4 upgrades for employment permit holders](https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/information-on-stamp-4-upgrades/) - Critical Skills permit holders may be eligible for Stamp 4 after 21 months of employment in the State.
+- [Long Term Residency](https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/long-term-residency/) - Long-term residence permission for people with a qualifying period of legal residence.
+- [How to become an Irish citizen](https://www.irishimmigration.ie/how-to-become-an-irish-citizen-guide/) - Official guide to citizenship by naturalisation.
 
 ## Contributing
 
