@@ -12,6 +12,7 @@ Every entry links to an official government or agency page.
 - [Canada](#canada)
 - [Denmark](#denmark)
 - [Estonia](#estonia)
+- [Finland](#finland)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -86,6 +87,16 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Startup visa](https://startupestonia.ee/startup-visa/) - Visa and residence route for founders and employees of startups reviewed by the Startup Committee.
 - [Long-term resident's residence permit](https://www.politsei.ee/en/instructions/residence-permit-for-a-permanent-resident/long-term-resident-s-residence-permit) - Available after five years on a temporary residence permit, with Estonian language at B1 level and the integration requirement.
 - [Work in Estonia](https://workinestonia.com/) - Official talent attraction portal with job listings and relocation guides.
+
+## Finland
+
+- [Residence permit for a specialist](https://migri.fi/en/specialist) - For expert roles such as IT specialists with confirmed employment; the page states a minimum gross salary of EUR 3,937 per month in 2026.
+- [EU Blue Card](https://migri.fi/en/eu-blue-card) - For highly qualified employment that meets the EU Blue Card requirements.
+- [Start-up entrepreneur](https://migri.fi/en/start-up-entrepreneur) - Residence permit for founders of growth companies.
+- [Permanent residence permit](https://migri.fi/en/permanent-residence-permit) - Requirements for moving from a continuous residence permit to permanent residence.
+- [Finnish citizenship](https://migri.fi/en/finnish-citizenship) - Requirements and application for citizenship.
+- [Work in Finland](https://www.workinfinland.com/en/) - Official portal for international professionals.
+- [Recognition of qualifications](https://www.oph.fi/en/services/recognition-qualifications) - Finnish National Agency for Education service for recognising foreign qualifications.
 
 ## Contributing
 
