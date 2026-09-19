@@ -6,7 +6,35 @@ Every entry links to an official government or agency page.
 
 ## Contents
 
+- [Immigration rules change often. Always confirm on the official page before applying.](#immigration-rules-change-often-always-confirm-on-the-official-page-before-applying)
 <!-- toc-end -->
+
+Immigration rules change often. Always confirm on the official page before applying.
+
+## Quick Comparison
+
+| Country | Main route for engineers | Path to permanent residence | Official link |
+|---|---|---|---|
+| Australia | Skills in Demand visa (482); points-tested Skilled Independent (189) or Skilled Nominated (190) | 189, 190 and 186 are permanent visas; citizenship later | [Department of Home Affairs](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189) |
+| Austria | Red-White-Red Card; EU Blue Card | Red-White-Red Card plus, then settlement; citizenship | [migration.gv.at](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/) |
+| Canada | Express Entry; Global Talent Stream work permit | Express Entry grants permanent residence directly | [IRCC Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) |
+| Denmark | Pay Limit Scheme; Positive Lists; Fast-Track Scheme | Permanent residence permit | [New to Denmark](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Pay-limit-scheme) |
+| Estonia | Temporary residence permit for employment | Long-term resident's permit after 5 years, with B1 Estonian | [Police and Border Guard Board](https://www.politsei.ee/en/instructions/residence-permit-for-employment) |
+| Finland | Specialist residence permit; EU Blue Card | Permanent residence permit; citizenship | [Migri](https://migri.fi/en/specialist) |
+| France | Talent passport, including the French Tech Visa | 10-year resident card; naturalisation | [France-Visas](https://france-visas.gouv.fr/en/talents-internationaux-et-attractivite-economique) |
+| Germany | EU Blue Card; IT specialist permit; Opportunity Card for job search | Settlement permit; naturalisation | [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card) |
+| Ireland | Critical Skills Employment Permit | Stamp 4 after 21 months on a Critical Skills permit; naturalisation | [Department of Enterprise](https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/) |
+| Japan | Engineer / Specialist in Humanities / International Services; Highly Skilled Professional | Permanent residence | [Immigration Services Agency](https://www.moj.go.jp/isa/applications/resources/newimmiact_3_system_index.html) |
+| Netherlands | Highly skilled migrant; EU Blue Card | Permanent residency or long-term EU residence | [IND](https://ind.nl/en/residence-permits/work/highly-skilled-migrant) |
+| New Zealand | Accredited Employer Work Visa | Skilled Migrant Category or Straight to Residence (Green List Tier 1) | [Immigration New Zealand](https://www.immigration.govt.nz/visas/skilled-migrant-category-resident-visa/) |
+| Portugal | Tech Visa; highly qualified activity residency visa | Residence permit through AIMA; nationality | [Portuguese visa portal](https://vistos.mne.gov.pt/en/tech-visa) |
+| Singapore | Employment Pass; ONE Pass | Permanent residence by application to ICA | [Ministry of Manpower](https://www.mom.gov.sg/passes-and-permits/employment-pass) |
+| Spain | Highly qualified professional authorisation; EU Blue Card | Long-term EU residence; nationality by residence | [Ministry of Inclusion](https://www.inclusion.gob.es/en/web/migraciones/w/66.-autorizacion-inicial-de-residencia-y-trabajo-de-profesionales-altamente-cualificados) |
+| Sweden | Work permit; EU Blue Card | Permanent residence permit | [Swedish Migration Agency](https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/employees.html) |
+| Switzerland | Work permit for highly qualified non-EU/EFTA nationals (quota); free movement for EU/EFTA | C settlement permit; naturalisation | [State Secretariat for Migration](https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige.html) |
+| United Arab Emirates | Employer-sponsored work visa; Green visa for skilled workers | Renewable 5 or 10-year Golden visa (long-term residence) | [UAE Government portal](https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa) |
+| United Kingdom | Skilled Worker visa; Global Talent visa | Indefinite leave to remain, usually after 5 years (3 on some routes) | [GOV.UK](https://www.gov.uk/skilled-worker-visa) |
+| United States | H-1B; O-1 | Green card through EB-1 or EB-2 | [USCIS](https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations) |
 
 ## Contributing
 
