@@ -6,7 +6,7 @@ Every entry links to an official government or agency page.
 
 ## Contents
 
-- [Immigration rules change often. Always confirm on the official page before applying.](#immigration-rules-change-often-always-confirm-on-the-official-page-before-applying)
+- [Quick Comparison](#quick-comparison)
 - [Australia](#australia)
 - [Austria](#austria)
 - [Canada](#canada)
@@ -30,9 +30,9 @@ Every entry links to an official government or agency page.
 - [General Resources](#general-resources)
 <!-- toc-end -->
 
-Immigration rules change often. Always confirm on the official page before applying.
-
 ## Quick Comparison
+
+Immigration rules change often. Always confirm on the official page before applying.
 
 | Country | Main route for engineers | Path to permanent residence | Official link |
 |---|---|---|---|
