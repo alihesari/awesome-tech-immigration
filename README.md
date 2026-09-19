@@ -23,6 +23,7 @@ Every entry links to an official government or agency page.
 - [Singapore](#singapore)
 - [Spain](#spain)
 - [Sweden](#sweden)
+- [Switzerland](#switzerland)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -194,6 +195,15 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Permanent residence permit](https://www.migrationsverket.se/en/you-want-to-apply/permanent-residence-permit.html) - Requirements for permanent residence.
 - [Recognition of foreign qualifications](https://www.uhr.se/en/start/recognition-of-foreign-qualifications/) - Swedish Council for Higher Education evaluation of foreign degrees.
 - [Work in Sweden](https://sweden.se/work-in-sweden) - Official guide to jobs and moving to Sweden for work.
+
+## Switzerland
+
+- [Work permits for non-EU/EFTA nationals](https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige.html) - Limited to highly qualified managers, specialists and skilled professionals, subject to annual quotas and priority for local and EU/EFTA workers.
+- [Free movement for EU/EFTA nationals](https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta.html) - Rules for EU/EFTA citizens working in Switzerland.
+- [Residence permits for non-EU/EFTA nationals](https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/nicht_eu_efta.html) - Overview of permit types, including the C settlement permit.
+- [Becoming a Swiss citizen](https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html) - Requirements for ordinary naturalisation.
+- [Recognition of professional qualifications](https://www.sbfi.admin.ch/en/recognition-of-professional-qualifications) - State Secretariat for Education, Research and Innovation recognition service.
+- [Working in Switzerland as a foreign national](https://www.ch.ch/en/foreign-nationals-in-switzerland/working-in-switzerland/) - Federal portal overview for foreign workers.
 
 ## Contributing
 
