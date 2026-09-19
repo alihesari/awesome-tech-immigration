@@ -14,6 +14,7 @@ Every entry links to an official government or agency page.
 - [Estonia](#estonia)
 - [Finland](#finland)
 - [France](#france)
+- [Germany](#germany)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -105,6 +106,16 @@ Immigration rules change often. Always confirm on the official page before apply
 - [French Tech Visa](https://lafrenchtech.gouv.fr/en/come-work-in-france/french-tech-visa/) - Simplified talent passport procedure for startup employees, founders selected by partner incubators, and investors.
 - [10-year resident card](https://www.service-public.gouv.fr/particuliers/vosdroits/F2208) - Conditions for the carte de resident, the long-term residence card (page in French).
 - [Naturalisation by decree](https://www.service-public.gouv.fr/particuliers/vosdroits/F2213) - Conditions and procedure for French citizenship through naturalisation (page in French).
+
+## Germany
+
+- [EU Blue Card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card) - For graduates with a job offer above the salary threshold, which is set each year and is lower for shortage occupations including IT.
+- [IT specialists without a degree](https://www.make-it-in-germany.com/en/visa-residence/types/it-specialists) - Residence permit route for IT specialists who qualify through professional experience instead of a formal degree.
+- [Residence permit for qualified professionals](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals) - For people with a recognised vocational or academic qualification and a job offer.
+- [Opportunity Card](https://www.make-it-in-germany.com/en/visa-residence/types/job-search-opportunity-card) - Job-search residence title for non-EU nationals with a recognised qualification or enough points under a points system.
+- [Settlement permit](https://www.make-it-in-germany.com/en/visa-residence/living-permanently/settlement-permit) - Permanent residence title; holding an EU Blue Card makes it easier to obtain.
+- [Naturalisation](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung-node.html) - Federal Office for Migration and Refugees overview of becoming a German citizen.
+- [Recognition in Germany](https://www.anerkennung-in-deutschland.de/en/) and [anabin](https://anabin.kmk.org) - Official portals for recognising foreign vocational and academic qualifications.
 
 ## Contributing
 
