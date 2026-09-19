@@ -16,6 +16,7 @@ Every entry links to an official government or agency page.
 - [France](#france)
 - [Germany](#germany)
 - [Ireland](#ireland)
+- [Japan](#japan)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -126,6 +127,15 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Stamp 4 upgrades for employment permit holders](https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/information-on-stamp-4-upgrades/) - Critical Skills permit holders may be eligible for Stamp 4 after 21 months of employment in the State.
 - [Long Term Residency](https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/long-term-residency/) - Long-term residence permission for people with a qualifying period of legal residence.
 - [How to become an Irish citizen](https://www.irishimmigration.ie/how-to-become-an-irish-citizen-guide/) - Official guide to citizenship by naturalisation.
+
+## Japan
+
+- [Engineer / Specialist in Humanities / International Services](https://www.moj.go.jp/isa/applications/status/gijinkoku.html) - The standard status of residence for software engineers employed by a company in Japan (page in Japanese).
+- [Highly Skilled Professional points system](https://www.moj.go.jp/isa/applications/resources/newimmiact_3_system_index.html) - Applicants scoring 70 points or more on education, career, income and other factors receive preferential immigration treatment (page in Japanese).
+- [J-Skip (Special Highly Skilled Professionals)](https://www.moj.go.jp/isa/applications/resources/nyuukokukanri01_00009.html) - Highly Skilled Professional status for applicants who meet set education or career and income requirements, without points (page in Japanese).
+- [J-Find (Future Creation Individual)](https://www.moj.go.jp/isa/applications/status/designatedactivities51.html) - Status for recent graduates of top-ranked universities to look for work or start a business in Japan (page in Japanese).
+- [Digital Nomad](https://www.moj.go.jp/isa/applications/status/designatedactivities53_00001.html) - Stay for remote workers from eligible countries; the page lists an annual income of at least 10 million yen and private medical insurance (as stated in 2026).
+- [Permanent residence](https://www.moj.go.jp/isa/applications/procedures/16-4.html) - Application procedure for permanent residence (page in Japanese).
 
 ## Contributing
 
