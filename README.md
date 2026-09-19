@@ -9,6 +9,7 @@ Every entry links to an official government or agency page.
 - [Immigration rules change often. Always confirm on the official page before applying.](#immigration-rules-change-often-always-confirm-on-the-official-page-before-applying)
 - [Australia](#australia)
 - [Austria](#austria)
+- [Canada](#canada)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -56,6 +57,16 @@ Immigration rules change often. Always confirm on the official page before apply
 - [EU Blue Card](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/eubluecard/) - For graduates with a qualifying job offer; ICT professionals can qualify with at least three years of relevant professional experience instead of a degree.
 - [Red-White-Red Card plus](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/redwhiteredcardplus/) - Fixed-term settlement with unlimited labour market access, available to Red-White-Red Card and EU Blue Card holders who meet the conditions.
 - [Austrian citizenship](https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/staatsbuergerschaft) - Official government overview of acquiring Austrian citizenship.
+
+## Canada
+
+- [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) - Online system for permanent residence applications under the Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program.
+- [Provincial Nominee Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html) - Provinces and territories (except Quebec and Nunavut) nominate skilled workers for permanent residence, through Express Entry or a separate stream.
+- [Global Talent Stream](https://www.canada.ca/en/employment-social-development/services/foreign-workers/global-talent.html) - Employer stream for hiring specialized talent or occupations on the global talent occupations list, with a stated 10-business-day service standard.
+- [Start-up Visa Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html) - Permanent residence route for founders; the page lists it as paused, open only to applicants with a valid 2025 commitment certificate who apply by 30 June 2026.
+- [Educational Credential Assessment](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed.html) - Required for foreign education when applying under the Federal Skilled Worker Program or claiming points for it.
+- [Canadian citizenship](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen.html) - Eligibility and application for permanent residents who want to become citizens.
+- [Job Bank](https://www.jobbank.gc.ca) - Government of Canada job search portal.
 
 ## Contributing
 
