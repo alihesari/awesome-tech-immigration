@@ -11,6 +11,7 @@ Every entry links to an official government or agency page.
 - [Austria](#austria)
 - [Canada](#canada)
 - [Denmark](#denmark)
+- [Estonia](#estonia)
 <!-- toc-end -->
 
 Immigration rules change often. Always confirm on the official page before applying.
@@ -77,6 +78,14 @@ Immigration rules change often. Always confirm on the official page before apply
 - [Start-up Denmark](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Start-up-Denmark) - Residence permit for founders who want to run an innovative business in Denmark.
 - [Permanent residence permit](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Permanent-residence-permit/Permanent-residence) - Requirements and application for permanent residence.
 - [Work in Denmark](https://www.workindenmark.dk) - Public employment service for international job seekers.
+
+## Estonia
+
+- [Temporary residence permit for employment](https://www.politsei.ee/en/instructions/residence-permit-for-employment) - For non-EU nationals working for a specific employer in Estonia for longer than one year.
+- [Digital Nomad Visa](https://www.e-resident.gov.ee/nomadvisa/) - Long-stay visa for remote workers employed by a foreign company, running their own foreign company, or freelancing mostly for clients abroad, subject to a minimum income.
+- [Startup visa](https://startupestonia.ee/startup-visa/) - Visa and residence route for founders and employees of startups reviewed by the Startup Committee.
+- [Long-term resident's residence permit](https://www.politsei.ee/en/instructions/residence-permit-for-a-permanent-resident/long-term-resident-s-residence-permit) - Available after five years on a temporary residence permit, with Estonian language at B1 level and the integration requirement.
+- [Work in Estonia](https://workinestonia.com/) - Official talent attraction portal with job listings and relocation guides.
 
 ## Contributing
 
