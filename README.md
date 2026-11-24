@@ -241,6 +241,7 @@ Immigration rules change often. Always confirm on the official page before apply
 
 - [EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal_en) - European Commission portal with country-by-country rules for non-EU nationals moving to an EU country.
 - [EU Blue Card overview](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/work/eu-blue-card-attracting-highly-qualified-talent-eu_en) - European Commission summary of the EU-wide permit for highly qualified workers.
+- [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from 21,000 employers' own career pages (Greenhouse, Lever, Ashby, Workable and others). Dedicated filters for visa sponsorship, country, remote, and English-speaking teams.
 - [EURES](https://eures.europa.eu) - European job mobility portal run by the European Commission and national employment services.
 - [ENIC-NARIC](https://www.enic-naric.net/) - Network of national centres for recognition of foreign academic qualifications in Europe and beyond.
 - [Europass](https://europass.europa.eu/en) - EU tools for CVs and describing qualifications in a standard format.
